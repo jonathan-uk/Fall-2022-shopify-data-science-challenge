@@ -27,7 +27,7 @@ The incorrect calculation for the average order mean is found by dividing by the
  it is often incorrect to judge and analyze the dataset based off of the average. For instance, any majorly large number or outliers will skew the average. Hence, we can consider other metrics such as the median and mode. For this case I would report the mode.  The mode lets us know which value(s) in a dataset is the most common. From the table below we see that most order amounts fall below the 1000 mark but there is an outlier with a value of 704000.
 
 
-![Order Amount Boxplot](![image](https://user-images.githubusercontent.com/86266982/173306950-16cfc1d4-186e-4281-8a71-5fb2d60cd1a1.png))
+![Order Amount Boxplot](https://github.com/jonathan-uk/Fall-2022-shopify-data-science-challenge/blob/main/download.png)
 
 ### C. 
 
