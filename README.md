@@ -37,6 +37,7 @@ The incorrect calculation for the average order mean is found by dividing by the
 Using the jupyter notebook to evaluate the metrics:
 mode = df['order_amount'].mode()[0]
 Mode
+```
 --Result = $153.00
 
 ## Question 2
